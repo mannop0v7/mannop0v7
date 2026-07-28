@@ -4,7 +4,7 @@
 
 ### **Full-Stack Developer | Penetration Tester | Tech Video Creator**
 
-<img src="https://komarev.com/ghpvc/?username=mannop0v7&color=blueviolet&style=flat-square" alt="Profile Views" />
+
 
 </div>
 
