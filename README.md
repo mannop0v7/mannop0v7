@@ -26,10 +26,6 @@ If a new technology or security vulnerability pops up, chances are I'll study it
 
 ---
 
-### 📌 Pinned Project Highlight
-
-* 🚀 **[Your Best Project Name]:** *A detailed web application or CTF write-up showcasing clean code, deep architecture, and security analysis.*
-
 ---
 
 ### ⚡ Fun Facts & Hobbies
@@ -45,10 +41,10 @@ If a new technology or security vulnerability pops up, chances are I'll study it
 
 <div align="center">
 
-  <a href="YouTube_Link">
+  <a href="https://youtube.com/@mannop0v7?si=8PY6oHS_vkHPzWIM">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="Instagram_Link">
+  <a href="https://www.instagram.com/mannopov.codes/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:abdumannopmannopov@yandex.com">
